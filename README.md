@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vidhi2604
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning how to be a better self
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Giving & Sharing>>>>>
 
