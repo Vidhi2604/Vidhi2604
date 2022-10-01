@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning how to be a better self
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 📫 Giving & Sharing>>>>>
 
 <!---
 Vidhi2604/Vidhi2604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
