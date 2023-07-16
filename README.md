@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vidhi2604
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m a Full Stack Web Developer
+- 🌱 I'm currently learning Node.js
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Giving & Sharing>>>>>
+- 📫 I think it's THOUGHT which creates TIME;)
 
 <!---
 Vidhi2604/Vidhi2604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
