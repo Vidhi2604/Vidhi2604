@@ -7,8 +7,8 @@ React Native
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, if something is in my reach😉
 Outside tech, I love to 🖌️ do mandala paintings, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 I think it's THOUGHT which creates TIME;)
+- 🤝 I’m looking to collaborate on open source projects
+- 📫 SOMETIMES, I think it's THOUGHT which creates TIME! What do you think?👀
 
 <!---
 Vidhi2604/Vidhi2604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
