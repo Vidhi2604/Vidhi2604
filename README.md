@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidhi Sahai</h1>
+<h1 align="center">Hi 👋, I'm Vidhi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 👩‍🎓 I am an undergraduate Electronics & Communications Engineering student at Indian Institute of Technology Guwahati.
