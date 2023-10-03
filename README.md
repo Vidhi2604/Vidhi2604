@@ -14,7 +14,7 @@
 
 - ✔ Ask me about anything, I am happy to help, if something is in my reach😉
 
-- 🍁 Outside tech, I love to 🖌️ do mandala paintings, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 🍁 Outside tech, I love to 🖌️ do mandala paintings, 🎵 listen to music, and 🌴 explore nature outdoors and I cook👩‍🍳 (sometimes) :P
 
 
 - 💭 SOMETIMES, I think it's THOUGHT which creates TIME! What do you think?👀
