@@ -14,10 +14,10 @@
 
 - ✔ Ask me about anything, I am happy to help, if something is in my reach😉
 
-- 🍁 Outside tech, I love to 🖌️ do mandala paintings, 🎵 listen to music, and 🌴 explore nature outdoors and I cook👩‍🍳 (sometimes) :P
+- 🍁 Outside tech, I love to 🖌️ do mandala paintings, 👩‍🍳 cooking, 🎵 listen to music, and 🌴 explore nature outdoors.
 
 
-- 💭 SOMETIMES, I think it's THOUGHT which creates TIME! What do you think?👀
+<!-- - 💭 SOMETIMES, I think it's THOUGHT which creates TIME! What do you think?👀 -->
 
 - 📫 How to reach me?🤔 **vidhisahai26april@gmail.com**
 
