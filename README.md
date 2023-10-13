@@ -64,6 +64,7 @@
   <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Vidhi2604&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 <h3 align="left"> My Holopin Board 😄 </h3>
+
 [![An image of @vidhi2604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidhi2604)](https://holopin.io/@vidhi2604) 
 
 
