@@ -19,8 +19,6 @@
 
 <!-- - 💭 SOMETIMES, I think it's THOUGHT which creates TIME! What do you think?👀 -->
 
-- 📫 How to reach me?🤔 **vidhisahai26april@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
