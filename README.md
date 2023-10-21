@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ...
    Data Structure And Algorithms & React Native
 
-- 🤝 I’m looking to collaborate on open source projects
+- 🤝 Looking to collaborate on open source projects
 
 - ✔ Ask me about anything, I am happy to help, if something is in my reach😉
 
