@@ -7,7 +7,7 @@
 
 - 👀 I’m a Fullstack Web Developer
 
-- 🌱 I’m currently learning ...
+- 🌱 Currently learning ...
    Data Structure And Algorithms & React Native
 
 - 🤝 Looking to collaborate on open source projects
