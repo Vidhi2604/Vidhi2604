@@ -5,8 +5,6 @@
 
 - 👩‍🎓 I am an undergraduate Electronics & Communications Engineering student at Indian Institute of Technology Guwahati.
 
-- 👀 I’m a Fullstack Web Developer
-
 - 🌱 Currently learning ...
    Data Structure And Algorithms & React Native
 
