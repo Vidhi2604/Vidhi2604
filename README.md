@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidhi Sahai</h1>
+<h1 align="center">Hi 👋, I'm Vidhi</h1>
 <h3 align="center">A FullStack web developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi2604&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi2604" /> </p> -->
