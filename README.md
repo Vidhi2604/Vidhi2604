@@ -15,7 +15,7 @@
 - 🍁 Outside tech, I love to 🖌️ do mandala paintings, 👩‍🍳 cooking, 🎵 listen to music, and 🌴 explore nature outdoors.
 
 
-- 💭 SOMETIMES, I think it's THOUGHT which creates TIME! What do you think?👀 
+<!-- - 💭 SOMETIMES, I think it's THOUGHT which creates TIME! What do you think?👀 -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
