@@ -60,9 +60,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhi2604&show_icons=true&locale=en" alt="vidhi2604" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhi2604&show_icons=true&locale=en&layout=compact" alt="vidhi2604" /></p>
 
-<!-- <h3 align="left"> Latest Contribution </h3>
+<h3 align="left"> Latest Contribution </h3>
 <a href="https://github.com/Vidhi2604/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Vidhi2604&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a> --> 
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Vidhi2604&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a> 
 
 
 
