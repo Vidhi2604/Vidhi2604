@@ -25,7 +25,7 @@
 <a href="https://instagram.com/sahaividhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahaividhi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vidhi.sahai.9?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidhi.sahai.9" height="30" width="40" /></a>
 <a href="https://dev.to/vidhi2604" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="https://dev.to/vidhi2604" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/vidhisahai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vidhisahai" height="30" width="40" /></a>
+<!-- <a href="https://www.kaggle.com/vidhisahai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vidhisahai" height="30" width="40" /></a> -->
 
 </p>
 
