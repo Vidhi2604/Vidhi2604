@@ -6,7 +6,7 @@
 - 👩‍🎓 I am an undergraduate Electronics & Communications Engineering student at Indian Institute of Technology Guwahati.
 
 - 🌱 Currently learning ...
-   Data Structure And Algorithms & React native.
+   Data Structure And Algorithms & NextJs.
 
 - 🤝 Looking to collaborate on open source projects.
 
